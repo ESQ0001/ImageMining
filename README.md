@@ -14,7 +14,7 @@ The image data was extracted from [ImageNet](https://www.image-net.org/) and  th
 
 ### Results
 
-After trying different transfer learning algorithms and pixel classification, we obtained the best result using the ResNet50 algorithm with an SGD optimizer with an accuracy of 71.5% in the test set. We also analyzed the errors behind the misclassifications. The main reasons were: \
+After trying different transfer learning algorithms and pixel classification, we obtained the best result using the ResNet50 algorithm with an SGD optimizer with an accuracy of 71.5% in the test set. We also analyzed the errors behind the misclassifications. The main reasons were: 
 - Non-food images
 - Too much information in the image
 - Similar format, which leads to misclassification, due to the pixels' resemblance
