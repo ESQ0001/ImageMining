@@ -1,5 +1,12 @@
 # ImageMining
-Image Mining Food recognition repository. This repository contains the code (in Jupyter notebooks) of the Image Mining course at UPM. The objective was to correctly classify different types of food from an input image and provide nutritional information about it. This was done in an Android application, which was connected to an API. For more detailed information, please check out the [paper](https://raw.githubusercontent.com/ESQ0001/ESQ0001.github.io/master/IM.pdf). 
+Image Mining Food recognition repository. This repository contains the code (in Jupyter notebooks) of the Image Mining course at UPM. The objective was to correctly classify different types of food from an input image and provide nutritional information about it. This was done in an Android application, which was connected to an API. For more detailed information, please check out the [paper](https://raw.githubusercontent.com/ESQ0001/ESQ0001.github.io/master/IM.pdf). \
+Authors:
+- Alejandro Esquivias (principal contributor and in charge of the API and classification code)
+- Ákos Kuti (Initial data manipulation)
+- Przemyslaw Lewandoski (Android application)
+- Jiachun Chen (Conceptual framing)
+- David Engelstein (Error Analysis)
+- Ismael Sánchez (API and Android integration)
 
 ### Data
 
